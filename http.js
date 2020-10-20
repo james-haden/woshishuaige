@@ -57,4 +57,5 @@ req.end();
 // $ git branch -M main	(在本地新建一个main分支)
 // $ git checkout -b ljj	(新建并切换到XXX分支)
 // $ git pull origin main(拉取远程最新代码)
+// $ git remote add origin git@github.com:james-haden/woshishuaige.git
 // $ git push origin main	(提交本地代码到github仓库)；
